@@ -73,14 +73,23 @@ The dataset used is the **Smartphones Cleaned Dataset** by `chaudharisanika` on 
 
 ## Repository Structure
 SMARTPHONE_DATA_SCIENCE_PROJECT/
+
 ┣ 📁 smartphone_env/ # Virtual environment (ignored by .gitignore)
+
 ┣ 📁 smartphone-dataset/ # Folder containing the raw dataset
+
 ┃ ┗ 📄 Smartphones_cleaned_dataset.csv
+
 ┣ 📄 .env # Environment variables (e.g., Kaggle API key)
+
 ┣ 📄 .gitignore # Files/folders to ignore in version control
+
 ┣ 📄 pricekde.png # Saved KDE plot of price distribution
+
 ┣ 📄 README.md # Project overview and documentation
+
 ┣ 📄 smartphone.ipynb # Main Jupyter Notebook with all analysis
+
 ┣ 📄 smartphones-dataset.zip # Downloaded raw ZIP from Kaggle
 
 ---
