@@ -30,7 +30,8 @@ The dataset used is the **Smartphones Cleaned Dataset** by `chaudharisanika` on 
 ### Section 2: Visualization & Plotting
 - Created histograms, bar charts, scatter plots, and boxplots  
 - Visualized brand-wise price distribution and RAM-price relationship  
-- Generated a correlation heatmap and KDE plot of price  
+- Generated a correlation heatmap and KDE plot of price
+  ![Price KDE plot](pricekde.png)  
 - Used pairplots for multivariate numeric trends  
 - Improved plot readability and saved visualizations  
 
